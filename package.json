@@ -1,8 +1,18 @@
 {
-  "name": "app-builder-workspace",
-  "private": true,
+  "name": "@moqsh1/downloaderplus",
+  "version": "1.0.0",
+  "description": "Save YouTube and Instagram Reels as HD video or audio.",
+  "private": false,
   "sideEffects": false,
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moqsh1/Downloaderplus.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  },
   "overrides": {
     "nf3": "0.3.17"
   },
