@@ -1,0 +1,15 @@
+node_modules
+dist
+.output
+.vercel
+.tanstack
+.grok
+artifacts
+screenshots
+bin/yt-dlp
+.env
+.env.*
+*.log
+.DS_Store
+AGENTS.md
+.node_modules.lock
